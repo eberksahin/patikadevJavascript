@@ -1,1 +1,1 @@
-# patikadevjs-dev
+### Patika.dev Javascript bölümü ödevleri.
